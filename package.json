@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "font-awesome5": "^1.0.5",
     "jquery": "^3.4.1",
-    "jquery-validation": "^1.19.1",
+    "jquery-validation": "^1.19.5",
     "popper.js": "^1.16.1"
   }
 }
